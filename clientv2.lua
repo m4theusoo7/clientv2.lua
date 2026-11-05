@@ -219,7 +219,7 @@ do
 end
 
 --// Libraries
-local Sha256 = ImportLib("SHA256", "https://github.com/Dekkonot/luau-hashing/raw/refs/heads/main/modules/sha256/init.luau")
+local Sha256 = ImportLib("SHA256", "https://raw.githubusercontent.com/m4theusoo7/init.luau/refs/heads/main/init.luau")
 if not Sha256 then 
     DebugWarn("Failed to import libraries")
     return 
