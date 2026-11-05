@@ -25,7 +25,7 @@ for future updates; possible obfuscation.
         - null
 
 @loadstring:
-    loadstring(game:HttpGet("https://scriptblox.com/ingest/clientv2.lua"))(
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/m4theusoo7/clientv2.lua/refs/heads/main/clientv2.lua"))(
         "proj_e1d815a5fad9", 
         "1.0.0",
         false
